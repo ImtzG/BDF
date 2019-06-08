@@ -1,0 +1,9 @@
+{
+  "name": "ionic-angular-course",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "v2": true,
+  "id": "7571d1e3"
+}
